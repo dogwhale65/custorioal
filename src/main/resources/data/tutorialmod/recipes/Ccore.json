@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dsd",
+    "sas",
+    "dsd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:conduit"
+    },
+    "s": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:ccore"
+  }
+}

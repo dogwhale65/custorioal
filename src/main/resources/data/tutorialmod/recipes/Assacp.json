@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dad",
+    "asa",
+    "dad"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:golden_carrot"
+    },
+    "a": {
+      "item": "minecraft:elytra"
+    },
+    "s": {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:assacp"
+  }
+}
